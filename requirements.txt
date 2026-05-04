@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+librosa
+scikit-learn
+tqdm
+
+tensorflow
+keras
+
+scipy
+soundfile
+
+joblib
