@@ -1,10 +1,12 @@
 import os
 import numpy as np
 import pandas as pd
+import librosa
 from tqdm import tqdm
 
 # ---------------- CONFIG ---------------- #
 DATA_PATH = "/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files"
+TARGET_SR = 16000
 
 # Label mapping
 LABEL_MAP = {
@@ -22,15 +24,21 @@ CLASS_NAMES = {
 }
 
 
-# ---------------- HELPER FUNCTION ---------------- #
-def parse_annotation(txt_file):
-    """
-    Reads annotation file and determines presence of crackles and wheezes.
-    """
-    crackles = 0
-    wheezes = 0
+# ---------------- LOAD AUDIO ---------------- #
+def load_audio(file_path):
+    signal, sr = librosa.load(file_path, sr=None, mono=True)
+    if sr != TARGET_SR:
+        signal = librosa.resample(signal, orig_sr=sr, target_sr=TARGET_SR)
+    return signal
 
-    with open(txt_file, "r") as f:
+
+# ---------------- EXTRACT CYCLES ---------------- #
+def extract_cycles(wav_path, txt_path):
+    signal = load_audio(wav_path)
+
+    cycles = []
+
+    with open(txt_path, "r") as f:
         lines = f.readlines()
 
     for line in lines:
@@ -39,58 +47,67 @@ def parse_annotation(txt_file):
         if len(parts) < 4:
             continue
 
-        c = int(parts[2])
-        w = int(parts[3])
+        start = float(parts[0])
+        end = float(parts[1])
+        crackles = int(parts[2])
+        wheezes = int(parts[3])
 
-        if c == 1:
-            crackles = 1
-        if w == 1:
-            wheezes = 1
+        start_sample = int(start * TARGET_SR)
+        end_sample = int(end * TARGET_SR)
 
-    return crackles, wheezes
+        segment = signal[start_sample:end_sample]
+
+        if len(segment) < 100:  # skip very short segments
+            continue
+
+        label = LABEL_MAP[(crackles, wheezes)]
+
+        cycles.append((segment, label))
+
+    return cycles
 
 
 # ---------------- MAIN LOADER ---------------- #
-def load_icbhi_dataset(data_path=DATA_PATH):
+def load_icbhi_cycles(data_path=DATA_PATH):
     data = []
 
     files = os.listdir(data_path)
-
     wav_files = [f for f in files if f.endswith(".wav")]
 
-    print(f"Total audio files found: {len(wav_files)}")
+    print(f"Total audio files: {len(wav_files)}")
 
     for wav_file in tqdm(wav_files):
         wav_path = os.path.join(data_path, wav_file)
-
-        txt_file = wav_file.replace(".wav", ".txt")
-        txt_path = os.path.join(data_path, txt_file)
+        txt_path = wav_path.replace(".wav", ".txt")
 
         if not os.path.exists(txt_path):
             continue
 
-        crackles, wheezes = parse_annotation(txt_path)
+        patient_id = wav_file.split("_")[0]
 
-        label = LABEL_MAP[(crackles, wheezes)]
+        cycles = extract_cycles(wav_path, txt_path)
 
-        data.append({
-            "file_path": wav_path,
-            "crackles": crackles,
-            "wheezes": wheezes,
-            "label": label,
-            "class_name": CLASS_NAMES[label]
-        })
+        for segment, label in cycles:
+            data.append({
+                "signal": segment,
+                "label": label,
+                "patient_id": patient_id,
+                "class_name": CLASS_NAMES[label]
+            })
 
     df = pd.DataFrame(data)
 
-    print("\nDataset Summary:")
+    print("\nCycle-level dataset summary:")
     print(df["class_name"].value_counts())
 
     return df
 
 
-# ---------------- RUN TEST ---------------- #
+# ---------------- TEST ---------------- #
 if __name__ == "__main__":
-    df = load_icbhi_dataset()
-    print("\nSample data:")
+    df = load_icbhi_cycles()
+
+    print("\nSample:")
     print(df.head())
+
+    print("\nTotal cycles:", len(df))
