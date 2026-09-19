@@ -1,6 +1,58 @@
-venv/
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Windows metadata
+*:Zone.Identifier
+
+# Raw datasets
+data/raw/
 *.wav
 *.mp3
-data/
-.env
+*.flac
+*.ogg
+*.7z
+*.zip
+*.tar
+*.gz
+
+# Generated dataset features
+data/processed/*/audio/
+data/processed/*/features/
+*.npy
+*.npz
+
+# Large trained models
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Generated model directories
+outputs/*/models/
+
+# Large embedding files
+outputs/**/all_training_recording_embeddings.csv
+outputs/**/training_recording_embeddings.csv
+outputs/**/recording_embeddings.csv
+
+# Large generated visualization files
+outputs/**/visualizations/
+
+# Temporary files
+src/test.txt
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Logs
+*.log

@@ -1,0 +1,9 @@
+device,sound_class,samples,correct,errors,accuracy
+AKGC417L,0.0,575,575,0,1.0
+AKGC417L,1.0,266,266,0,1.0
+Litt3200,0.0,121,121,0,1.0
+Litt3200,1.0,23,23,0,1.0
+LittC2SE,0.0,61,14,47,0.22950819672131148
+LittC2SE,1.0,30,29,1,0.9666666666666667
+Meditron,0.0,208,208,0,1.0
+Meditron,1.0,21,21,0,1.0

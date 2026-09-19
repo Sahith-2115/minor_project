@@ -1,0 +1,4 @@
+patient_group,sound_class,samples,correct,errors,accuracy
+ICBHI_141,0.0,14,14,0,1.0
+ICBHI_141,1.0,29,29,0,1.0
+ICBHI_199,0.0,18,0,18,0.0

@@ -1,0 +1,5 @@
+Dataset,Asthma,Bronchitis,COPD,Healthy,Pneumonia,Total
+Validation,45,15,56,15,42,173
+Validation,0,0,1111,69,52,1232
+Test,43,15,104,22,48,232
+Test,0,0,194,32,0,226

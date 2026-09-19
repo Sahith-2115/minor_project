@@ -1,0 +1,9 @@
+true_label,predicted_label,count
+COPD,Pneumonia,31
+COPD,Asthma,6
+Pneumonia,Asthma,6
+Asthma,Pneumonia,4
+COPD,Bronchitis,4
+Healthy,Pneumonia,3
+Healthy,Bronchitis,1
+Pneumonia,COPD,1

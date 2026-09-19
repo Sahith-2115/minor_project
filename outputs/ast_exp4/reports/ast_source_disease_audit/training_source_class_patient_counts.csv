@@ -1,0 +1,9 @@
+source,class_name,patient_count
+Asthma_V2,Asthma,40
+Asthma_V2,Bronchitis,15
+Asthma_V2,COPD,31
+Asthma_V2,Healthy,19
+Asthma_V2,Pneumonia,32
+ICBHI,COPD,50
+ICBHI,Healthy,18
+ICBHI,Pneumonia,5

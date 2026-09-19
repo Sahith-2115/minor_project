@@ -1,0 +1,5 @@
+device,test_cycles,test_patients,train_cycles_same_device,train_patients_same_device,seen_in_training
+AKGC417L,71,1,3505,27,True
+Litt3200,48,1,358,8,True
+LittC2SE,30,1,445,18,True
+Meditron,77,4,587,24,True

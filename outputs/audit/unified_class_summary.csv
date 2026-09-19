@@ -1,0 +1,10 @@
+source,class_name,samples,patient_groups
+Asthma_V2,Asthma,288,58
+Asthma_V2,Bronchial,104,21
+Asthma_V2,COPD,401,51
+Asthma_V2,Healthy,133,27
+Asthma_V2,Pneumonia,285,48
+ICBHI,Asthma,6,1
+ICBHI,COPD,5746,64
+ICBHI,Healthy,322,26
+ICBHI,Pneumonia,285,6

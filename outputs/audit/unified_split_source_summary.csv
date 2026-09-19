@@ -1,0 +1,7 @@
+split,source,samples,patient_groups
+test,Asthma_V2,173,29
+test,ICBHI,1102,16
+train,Asthma_V2,843,144
+train,ICBHI,4107,66
+validation,Asthma_V2,183,31
+validation,ICBHI,1144,14

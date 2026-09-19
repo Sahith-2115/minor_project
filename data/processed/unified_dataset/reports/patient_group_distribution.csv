@@ -1,0 +1,16 @@
+split,class_name,patient_groups
+test,Asthma,9
+test,Bronchitis,3
+test,COPD,17
+test,Healthy,8
+test,Pneumonia,8
+train,Asthma,40
+train,Bronchitis,15
+train,COPD,81
+train,Healthy,37
+train,Pneumonia,37
+validation,Asthma,9
+validation,Bronchitis,3
+validation,COPD,17
+validation,Healthy,8
+validation,Pneumonia,8

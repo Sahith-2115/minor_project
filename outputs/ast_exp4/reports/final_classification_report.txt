@@ -1,0 +1,33 @@
+AST EXPERIMENT 4 FINAL TEST EVALUATION
+
+Checkpoint: /home/sahith/projects/minor_project_408/outputs/ast_exp4/models/best_ast_exp4_model.pt
+Test samples: 458
+
+Test Loss: 1.1589
+Test Accuracy: 0.8777
+Macro Precision: 0.8060
+Macro Recall: 0.9099
+Macro F1: 0.8437
+Weighted Precision: 0.9168
+Weighted Recall: 0.8777
+Weighted F1: 0.8885
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      Asthma     0.7647    0.9070    0.8298        43
+  Bronchitis     0.7500    1.0000    0.8571        15
+        COPD     0.9961    0.8624    0.9245       298
+     Healthy     1.0000    0.9259    0.9615        54
+   Pneumonia     0.5190    0.8542    0.6457        48
+
+    accuracy                         0.8777       458
+   macro avg     0.8060    0.9099    0.8437       458
+weighted avg     0.9168    0.8777    0.8885       458
+
+Confusion Matrix:
+[[ 39   0   0   0   4]
+ [  0  15   0   0   0]
+ [  6   4 257   0  31]
+ [  0   1   0  50   3]
+ [  6   0   1   0  41]]

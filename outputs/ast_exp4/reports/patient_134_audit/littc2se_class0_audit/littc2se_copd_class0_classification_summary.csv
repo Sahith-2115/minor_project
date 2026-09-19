@@ -1,0 +1,4 @@
+patient_group,split,cycles,audio_files,correct,errors,accuracy
+ICBHI_199,validation,18,2,0,18,0.0
+ICBHI_134,test,29,5,0,29,0.0
+ICBHI_141,validation,14,7,14,0,1.0

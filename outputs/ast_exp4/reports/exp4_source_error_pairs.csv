@@ -1,0 +1,10 @@
+source,true_label,predicted_label,count
+ICBHI,COPD,Pneumonia,30
+AsthmaV2,Pneumonia,Asthma,6
+AsthmaV2,COPD,Asthma,6
+AsthmaV2,Asthma,Pneumonia,4
+AsthmaV2,COPD,Bronchitis,4
+AsthmaV2,Healthy,Pneumonia,3
+AsthmaV2,COPD,Pneumonia,1
+AsthmaV2,Healthy,Bronchitis,1
+AsthmaV2,Pneumonia,COPD,1

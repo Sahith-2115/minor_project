@@ -1,0 +1,1212 @@
+    class               filename patient_id
+   asthma     P10AsthmaIE_49.wav        P10
+   asthma     P10AsthmaIU_46.wav        P10
+   asthma     P10AsthmaIU_50.wav        P10
+   asthma     P10AsthmaRL_47.wav        P10
+   asthma     P10AsthmaRS_48.wav        P10
+   asthma   P11WheezingIE_53.wav        P11
+   asthma   P11WheezingIU_54.wav        P11
+   asthma   P11WheezingRL_51.wav        P11
+   asthma   P11WheezingRL_55.wav        P11
+   asthma   P11WheezingRS_52.wav        P11
+   asthma   P12WheezingIE_57.wav        P12
+   asthma   P12WheezingIU_58.wav        P12
+   asthma   P12WheezingRL_59.wav        P12
+   asthma   P12WheezingRS_56.wav        P12
+   asthma   P12WheezingRS_60.wav        P12
+   asthma   P13WheezingIE_61.wav        P13
+   asthma   P13WheezingIE_65.wav        P13
+   asthma   P13WheezingIU_62.wav        P13
+   asthma   P13WheezingRL_63.wav        P13
+   asthma   P13WheezingRS_64.wav        P13
+   asthma   P14WheezingIE_69.wav        P14
+   asthma   P14WheezingIU_66.wav        P14
+   asthma   P14WheezingIU_70.wav        P14
+   asthma   P14WheezingRL_67.wav        P14
+   asthma   P14WheezingRS_68.wav        P14
+   asthma   P15WheezingIE_73.wav        P15
+   asthma   P15WheezingIU_74.wav        P15
+   asthma   P15WheezingRL_71.wav        P15
+   asthma   P15WheezingRL_75.wav        P15
+   asthma   P15WheezingRS_72.wav        P15
+   asthma   P16WheezingIE_77.wav        P16
+   asthma   P16WheezingIU_78.wav        P16
+   asthma   P16WheezingRL_79.wav        P16
+   asthma   P16WheezingRS_76.wav        P16
+   asthma   P16WheezingRS_80.wav        P16
+   asthma   P17WheezingIE_81.wav        P17
+   asthma   P17WheezingIE_85.wav        P17
+   asthma   P17WheezingIU_82.wav        P17
+   asthma   P17WheezingRL_83.wav        P17
+   asthma   P17WheezingRS_84.wav        P17
+   asthma   P18WheezingIE_89.wav        P18
+   asthma   P18WheezingIU_86.wav        P18
+   asthma   P18WheezingIU_90.wav        P18
+   asthma   P18WheezingRL_87.wav        P18
+   asthma   P18WheezingRS_88.wav        P18
+   asthma   P19WheezingIE_93.wav        P19
+   asthma   P19WheezingIU_94.wav        P19
+   asthma   P19WheezingRL_91.wav        P19
+   asthma   P19WheezingRL_95.wav        P19
+   asthma   P19WheezingRS_92.wav        P19
+   asthma       P1AsthmaIE_1.wav         P1
+   asthma       P1AsthmaIE_5.wav         P1
+   asthma       P1AsthmaIU_2.wav         P1
+   asthma       P1AsthmaRL_3.wav         P1
+   asthma       P1AsthmaRS_4.wav         P1
+   asthma   P20WheezingIE_97.wav        P20
+   asthma   P20WheezingIU_98.wav        P20
+   asthma   P20WheezingRL_99.wav        P20
+   asthma  P20WheezingRS_100.wav        P20
+   asthma   P20WheezingRS_96.wav        P20
+   asthma  P21WheezingIE_101.wav        P21
+   asthma  P21WheezingIE_105.wav        P21
+   asthma  P21WheezingIU_102.wav        P21
+   asthma  P21WheezingRL_103.wav        P21
+   asthma  P21WheezingRS_104.wav        P21
+   asthma  P22WheezingIE_109.wav        P22
+   asthma  P22WheezingIU_106.wav        P22
+   asthma  P22WheezingIU_110.wav        P22
+   asthma  P22WheezingRL_107.wav        P22
+   asthma  P22WheezingRS_108.wav        P22
+   asthma  P23WheezingIE_113.wav        P23
+   asthma  P23WheezingIU_114.wav        P23
+   asthma  P23WheezingRL_111.wav        P23
+   asthma  P23WheezingRL_115.wav        P23
+   asthma  P23WheezingRS_112.wav        P23
+   asthma  P24WheezingIE_117.wav        P24
+   asthma  P24WheezingIU_118.wav        P24
+   asthma  P24WheezingRL_119.wav        P24
+   asthma  P24WheezingRS_116.wav        P24
+   asthma  P24WheezingRS_120.wav        P24
+   asthma  P25WheezingIE_121.wav        P25
+   asthma  P25WheezingIE_125.wav        P25
+   asthma  P25WheezingIU_122.wav        P25
+   asthma  P25WheezingRL_123.wav        P25
+   asthma  P25WheezingRS_124.wav        P25
+   asthma  P26WheezingIE_129.wav        P26
+   asthma  P26WheezingIU_126.wav        P26
+   asthma  P26WheezingIU_130.wav        P26
+   asthma  P26WheezingRL_127.wav        P26
+   asthma  P26WheezingRS_128.wav        P26
+   asthma  P27WheezingIE_133.wav        P27
+   asthma  P27WheezingIU_134.wav        P27
+   asthma  P27WheezingRL_131.wav        P27
+   asthma  P27WheezingRL_135.wav        P27
+   asthma  P27WheezingRS_132.wav        P27
+   asthma  P28WheezingIE_137.wav        P28
+   asthma  P28WheezingIU_138.wav        P28
+   asthma  P28WheezingRL_139.wav        P28
+   asthma  P28WheezingRS_136.wav        P28
+   asthma  P28WheezingRS_140.wav        P28
+   asthma  P29WheezingIE_141.wav        P29
+   asthma  P29WheezingIE_145.wav        P29
+   asthma  P29WheezingIU_142.wav        P29
+   asthma  P29WheezingRL_143.wav        P29
+   asthma  P29WheezingRS_144.wav        P29
+   asthma       P2AsthmaIE_9.wav         P2
+   asthma      P2AsthmaIU_10.wav         P2
+   asthma       P2AsthmaIU_6.wav         P2
+   asthma       P2AsthmaRL_7.wav         P2
+   asthma       P2AsthmaRS_8.wav         P2
+   asthma  P30WheezingIE_149.wav        P30
+   asthma  P30WheezingIU_146.wav        P30
+   asthma  P30WheezingIU_150.wav        P30
+   asthma  P30WheezingRL_147.wav        P30
+   asthma  P30WheezingRS_148.wav        P30
+   asthma  P31WheezingIE_153.wav        P31
+   asthma  P31WheezingIU_154.wav        P31
+   asthma  P31WheezingRL_151.wav        P31
+   asthma  P31WheezingRL_155.wav        P31
+   asthma  P31WheezingRS_152.wav        P31
+   asthma  P32WheezingIE_157.wav        P32
+   asthma  P32WheezingIU_158.wav        P32
+   asthma  P32WheezingRL_159.wav        P32
+   asthma  P32WheezingRS_156.wav        P32
+   asthma  P32WheezingRS_160.wav        P32
+   asthma  P33WheezingIE_161.wav        P33
+   asthma  P33WheezingIE_165.wav        P33
+   asthma  P33WheezingIU_162.wav        P33
+   asthma  P33WheezingRL_163.wav        P33
+   asthma  P33WheezingRS_164.wav        P33
+   asthma  P34WheezingIE_169.wav        P34
+   asthma  P34WheezingIU_166.wav        P34
+   asthma  P34WheezingIU_170.wav        P34
+   asthma  P34WheezingRL_167.wav        P34
+   asthma  P34WheezingRS_168.wav        P34
+   asthma  P35WheezingIE_173.wav        P35
+   asthma  P35WheezingIU_174.wav        P35
+   asthma  P35WheezingRL_171.wav        P35
+   asthma  P35WheezingRL_175.wav        P35
+   asthma  P35WheezingRS_172.wav        P35
+   asthma  P36WheezingIE_177.wav        P36
+   asthma  P36WheezingIU_178.wav        P36
+   asthma  P36WheezingRL_179.wav        P36
+   asthma  P36WheezingRS_176.wav        P36
+   asthma  P36WheezingRS_180.wav        P36
+   asthma  P37WheezingIE_181.wav        P37
+   asthma  P37WheezingIE_185.wav        P37
+   asthma  P37WheezingIU_182.wav        P37
+   asthma  P37WheezingRL_183.wav        P37
+   asthma  P37WheezingRS_184.wav        P37
+   asthma  P38WheezingIE_189.wav        P38
+   asthma  P38WheezingIU_186.wav        P38
+   asthma  P38WheezingIU_190.wav        P38
+   asthma  P38WheezingRL_187.wav        P38
+   asthma  P38WheezingRS_188.wav        P38
+   asthma  P39WheezingIE_193.wav        P39
+   asthma  P39WheezingIU_194.wav        P39
+   asthma  P39WheezingRL_191.wav        P39
+   asthma  P39WheezingRL_195.wav        P39
+   asthma  P39WheezingRS_192.wav        P39
+   asthma      P3AsthmaIE_13.wav         P3
+   asthma      P3AsthmaIU_14.wav         P3
+   asthma      P3AsthmaRL_11.wav         P3
+   asthma      P3AsthmaRL_15.wav         P3
+   asthma      P3AsthmaRS_12.wav         P3
+   asthma  P40WheezingIE_197.wav        P40
+   asthma  P40WheezingIU_198.wav        P40
+   asthma  P40WheezingRL_199.wav        P40
+   asthma  P40WheezingRS_196.wav        P40
+   asthma  P40WheezingRS_200.wav        P40
+   asthma  P41WheezingIE_201.wav        P41
+   asthma  P41WheezingIE_205.wav        P41
+   asthma  P41WheezingIU_202.wav        P41
+   asthma  P41WheezingRL_203.wav        P41
+   asthma  P41WheezingRS_204.wav        P41
+   asthma  P42WheezingIE_209.wav        P42
+   asthma  P42WheezingIU_206.wav        P42
+   asthma  P42WheezingIU_210.wav        P42
+   asthma  P42WheezingRL_207.wav        P42
+   asthma  P42WheezingRS_208.wav        P42
+   asthma  P43WheezingIE_213.wav        P43
+   asthma  P43WheezingIU_214.wav        P43
+   asthma  P43WheezingRL_211.wav        P43
+   asthma  P43WheezingRL_215.wav        P43
+   asthma  P43WheezingRS_212.wav        P43
+   asthma  P44WheezingIE_217.wav        P44
+   asthma  P44WheezingIU_218.wav        P44
+   asthma  P44WheezingRL_219.wav        P44
+   asthma  P44WheezingRS_216.wav        P44
+   asthma  P44WheezingRS_220.wav        P44
+   asthma  P45WheezingIE_221.wav        P45
+   asthma  P45WheezingIE_225.wav        P45
+   asthma  P45WheezingIU_222.wav        P45
+   asthma  P45WheezingRL_223.wav        P45
+   asthma  P45WheezingRS_224.wav        P45
+   asthma  P46WheezingIE_229.wav        P46
+   asthma  P46WheezingIU_226.wav        P46
+   asthma  P46WheezingIU_230.wav        P46
+   asthma  P46WheezingRL_227.wav        P46
+   asthma  P46WheezingRS_228.wav        P46
+   asthma  P47WheezingIE_233.wav        P47
+   asthma  P47WheezingIU_234.wav        P47
+   asthma  P47WheezingRL_231.wav        P47
+   asthma  P47WheezingRL_235.wav        P47
+   asthma  P47WheezingRS_232.wav        P47
+   asthma  P48WheezingIE_237.wav        P48
+   asthma  P48WheezingIU_238.wav        P48
+   asthma  P48WheezingRL_239.wav        P48
+   asthma  P48WheezingRS_236.wav        P48
+   asthma  P48WheezingRS_240.wav        P48
+   asthma  P49WheezingIE_241.wav        P49
+   asthma  P49WheezingIE_245.wav        P49
+   asthma  P49WheezingIU_242.wav        P49
+   asthma  P49WheezingRL_243.wav        P49
+   asthma  P49WheezingRS_244.wav        P49
+   asthma      P4AsthmaIE_17.wav         P4
+   asthma      P4AsthmaIU_18.wav         P4
+   asthma      P4AsthmaRL_19.wav         P4
+   asthma      P4AsthmaRS_16.wav         P4
+   asthma      P4AsthmaRS_20.wav         P4
+   asthma  P50WheezingIE_249.wav        P50
+   asthma  P50WheezingIU_246.wav        P50
+   asthma  P50WheezingIU_250.wav        P50
+   asthma  P50WheezingRL_247.wav        P50
+   asthma  P50WheezingRS_248.wav        P50
+   asthma  P51WheezingIE_253.wav        P51
+   asthma  P51WheezingIU_254.wav        P51
+   asthma  P51WheezingRL_251.wav        P51
+   asthma  P51WheezingRL_255.wav        P51
+   asthma  P51WheezingRS_252.wav        P51
+   asthma  P52WheezingIE_257.wav        P52
+   asthma  P52WheezingIU_258.wav        P52
+   asthma  P52WheezingRL_259.wav        P52
+   asthma  P52WheezingRS_256.wav        P52
+   asthma  P52WheezingRS_260.wav        P52
+   asthma  P53WheezingIE_261.wav        P53
+   asthma  P53WheezingIE_265.wav        P53
+   asthma  P53WheezingIU_262.wav        P53
+   asthma  P53WheezingRL_263.wav        P53
+   asthma  P53WheezingRS_264.wav        P53
+   asthma  P54WheezingIE_269.wav        P54
+   asthma  P54WheezingIU_266.wav        P54
+   asthma  P54WheezingIU_270.wav        P54
+   asthma  P54WheezingRL_267.wav        P54
+   asthma  P54WheezingRS_268.wav        P54
+   asthma  P55WheezingIE_273.wav        P55
+   asthma  P55WheezingIU_274.wav        P55
+   asthma  P55WheezingRL_271.wav        P55
+   asthma  P55WheezingRL_275.wav        P55
+   asthma  P55WheezingRS_272.wav        P55
+   asthma  P56WheezingIE_277.wav        P56
+   asthma  P56WheezingIU_278.wav        P56
+   asthma  P56WheezingRL_279.wav        P56
+   asthma  P56WheezingRS_276.wav        P56
+   asthma  P56WheezingRS_280.wav        P56
+   asthma  P57WheezingIE_281.wav        P57
+   asthma  P57WheezingIE_285.wav        P57
+   asthma  P57WheezingIU_282.wav        P57
+   asthma  P57WheezingRL_283.wav        P57
+   asthma  P57WheezingRS_284.wav        P57
+   asthma  P58WheezingIU_286.wav        P58
+   asthma  P58WheezingRL_287.wav        P58
+   asthma  P58WheezingRS_288.wav        P58
+   asthma      P5AsthmaIE_21.wav         P5
+   asthma      P5AsthmaIE_25.wav         P5
+   asthma      P5AsthmaIU_22.wav         P5
+   asthma      P5AsthmaRL_23.wav         P5
+   asthma      P5AsthmaRS_24.wav         P5
+   asthma      P6AsthmaIE_29.wav         P6
+   asthma      P6AsthmaIU_26.wav         P6
+   asthma      P6AsthmaIU_30.wav         P6
+   asthma      P6AsthmaRL_27.wav         P6
+   asthma      P6AsthmaRS_28.wav         P6
+   asthma      P7AsthmaIE_33.wav         P7
+   asthma      P7AsthmaIU_34.wav         P7
+   asthma      P7AsthmaRL_31.wav         P7
+   asthma      P7AsthmaRL_35.wav         P7
+   asthma      P7AsthmaRS_32.wav         P7
+   asthma      P8AsthmaIE_37.wav         P8
+   asthma      P8AsthmaIU_38.wav         P8
+   asthma      P8AsthmaRL_39.wav         P8
+   asthma      P8AsthmaRS_36.wav         P8
+   asthma      P8AsthmaRS_40.wav         P8
+   asthma      P9AsthmaIE_41.wav         P9
+   asthma      P9AsthmaIE_45.wav         P9
+   asthma      P9AsthmaIU_42.wav         P9
+   asthma      P9AsthmaRL_43.wav         P9
+   asthma      P9AsthmaRS_44.wav         P9
+Bronchial  P10BronchialSc_46.wav        P10
+Bronchial  P10BronchialSc_48.wav        P10
+Bronchial  P10BronchialSc_50.wav        P10
+Bronchial  P10BronchialTc_47.wav        P10
+Bronchial  P10BronchialTc_49.wav        P10
+Bronchial  P11BronchialSc_52.wav        P11
+Bronchial  P11BronchialSc_54.wav        P11
+Bronchial  P11BronchialTc_51.wav        P11
+Bronchial  P11BronchialTc_53.wav        P11
+Bronchial  P11BronchialTc_55.wav        P11
+Bronchial  P12BronchialSc_56.wav        P12
+Bronchial  P12BronchialSc_58.wav        P12
+Bronchial  P12BronchialSc_60.wav        P12
+Bronchial  P12BronchialTc_57.wav        P12
+Bronchial  P12BronchialTc_59.wav        P12
+Bronchial  P13BronchialSc_62.wav        P13
+Bronchial  P13BronchialSc_64.wav        P13
+Bronchial  P13BronchialTc_61.wav        P13
+Bronchial  P13BronchialTc_63.wav        P13
+Bronchial  P13BronchialTc_65.wav        P13
+Bronchial  P14BronchialSc_66.wav        P14
+Bronchial  P14BronchialSc_68.wav        P14
+Bronchial  P14BronchialSc_70.wav        P14
+Bronchial  P14BronchialTc_67.wav        P14
+Bronchial  P14BronchialTc_69.wav        P14
+Bronchial  P15BronchialSc_72.wav        P15
+Bronchial  P15BronchialSc_74.wav        P15
+Bronchial  P15BronchialTc_71.wav        P15
+Bronchial  P15BronchialTc_73.wav        P15
+Bronchial  P15BronchialTc_75.wav        P15
+Bronchial  P16BronchialSc_76.wav        P16
+Bronchial  P16BronchialSc_78.wav        P16
+Bronchial  P16BronchialSc_80.wav        P16
+Bronchial  P16BronchialTc_77.wav        P16
+Bronchial  P16BronchialTc_79.wav        P16
+Bronchial  P17BronchialSc_82.wav        P17
+Bronchial  P17BronchialSc_84.wav        P17
+Bronchial  P17BronchialTc_81.wav        P17
+Bronchial  P17BronchialTc_83.wav        P17
+Bronchial  P17BronchialTc_85.wav        P17
+Bronchial  P18BronchialSc_86.wav        P18
+Bronchial  P18BronchialSc_88.wav        P18
+Bronchial  P18BronchialSc_90.wav        P18
+Bronchial  P18BronchialTc_87.wav        P18
+Bronchial  P18BronchialTc_89.wav        P18
+Bronchial  P19BronchialSc_92.wav        P19
+Bronchial  P19BronchialSc_94.wav        P19
+Bronchial  P19BronchialTc_91.wav        P19
+Bronchial  P19BronchialTc_93.wav        P19
+Bronchial  P19BronchialTc_95.wav        P19
+Bronchial    P1BronchialSc_2.wav         P1
+Bronchial    P1BronchialSc_4.wav         P1
+Bronchial    P1BronchialTc_1.wav         P1
+Bronchial    P1BronchialTc_3.wav         P1
+Bronchial    P1BronchialTc_5.wav         P1
+Bronchial P20BronchialSc_100.wav        P20
+Bronchial  P20BronchialSc_96.wav        P20
+Bronchial  P20BronchialSc_98.wav        P20
+Bronchial  P20BronchialTc_97.wav        P20
+Bronchial  P20BronchialTc_99.wav        P20
+Bronchial P21BronchialSc_102.wav        P21
+Bronchial P21BronchialSc_104.wav        P21
+Bronchial P21BronchialTc_101.wav        P21
+Bronchial P21BronchialTc_103.wav        P21
+Bronchial   P2BronchialSc_10.wav         P2
+Bronchial    P2BronchialSc_6.wav         P2
+Bronchial    P2BronchialSc_8.wav         P2
+Bronchial    P2BronchialTc_7.wav         P2
+Bronchial    P2BronchialTc_9.wav         P2
+Bronchial   P3BronchialSc_12.wav         P3
+Bronchial   P3BronchialSc_14.wav         P3
+Bronchial   P3BronchialTc_11.wav         P3
+Bronchial   P3BronchialTc_13.wav         P3
+Bronchial   P3BronchialTc_15.wav         P3
+Bronchial   P4BronchialSc_16.wav         P4
+Bronchial   P4BronchialSc_18.wav         P4
+Bronchial   P4BronchialSc_20.wav         P4
+Bronchial   P4BronchialTc_17.wav         P4
+Bronchial   P4BronchialTc_19.wav         P4
+Bronchial   P5BronchialSc_22.wav         P5
+Bronchial   P5BronchialSc_24.wav         P5
+Bronchial   P5BronchialTc_21.wav         P5
+Bronchial   P5BronchialTc_23.wav         P5
+Bronchial   P5BronchialTc_25.wav         P5
+Bronchial   P6BronchialSc_26.wav         P6
+Bronchial   P6BronchialSc_28.wav         P6
+Bronchial   P6BronchialSc_30.wav         P6
+Bronchial   P6BronchialTc_27.wav         P6
+Bronchial   P6BronchialTc_29.wav         P6
+Bronchial   P7BronchialSc_32.wav         P7
+Bronchial   P7BronchialSc_34.wav         P7
+Bronchial   P7BronchialTc_31.wav         P7
+Bronchial   P7BronchialTc_33.wav         P7
+Bronchial   P7BronchialTc_35.wav         P7
+Bronchial   P8BronchialSc_36.wav         P8
+Bronchial   P8BronchialSc_38.wav         P8
+Bronchial   P8BronchialSc_40.wav         P8
+Bronchial   P8BronchialTc_37.wav         P8
+Bronchial   P8BronchialTc_39.wav         P8
+Bronchial   P9BronchialSc_42.wav         P9
+Bronchial   P9BronchialSc_44.wav         P9
+Bronchial   P9BronchialTc_41.wav         P9
+Bronchial   P9BronchialTc_43.wav         P9
+Bronchial   P9BronchialTc_45.wav         P9
+     copd       P10COPDMc_74.wav        P10
+     copd       P10COPDMc_76.wav        P10
+     copd       P10COPDMc_78.wav        P10
+     copd       P10COPDMc_80.wav        P10
+     copd       P10COPDPr_73.wav        P10
+     copd       P10COPDPr_75.wav        P10
+     copd       P10COPDPr_77.wav        P10
+     copd       P10COPDPr_79.wav        P10
+     copd       P11COPDMc_82.wav        P11
+     copd       P11COPDMc_84.wav        P11
+     copd       P11COPDMc_86.wav        P11
+     copd       P11COPDMc_88.wav        P11
+     copd       P11COPDPr_81.wav        P11
+     copd       P11COPDPr_83.wav        P11
+     copd       P11COPDPr_85.wav        P11
+     copd       P11COPDPr_87.wav        P11
+     copd       P12COPDMc_90.wav        P12
+     copd       P12COPDMc_92.wav        P12
+     copd       P12COPDMc_94.wav        P12
+     copd       P12COPDMc_96.wav        P12
+     copd       P12COPDPr_89.wav        P12
+     copd       P12COPDPr_91.wav        P12
+     copd       P12COPDPr_93.wav        P12
+     copd       P12COPDPr_95.wav        P12
+     copd      P13COPDMc_100.wav        P13
+     copd      P13COPDMc_102.wav        P13
+     copd      P13COPDMc_104.wav        P13
+     copd       P13COPDMc_98.wav        P13
+     copd      P13COPDPr_101.wav        P13
+     copd      P13COPDPr_103.wav        P13
+     copd       P13COPDPr_97.wav        P13
+     copd       P13COPDPr_99.wav        P13
+     copd      P14COPDMc_106.wav        P14
+     copd      P14COPDMc_108.wav        P14
+     copd      P14COPDMc_110.wav        P14
+     copd      P14COPDMc_112.wav        P14
+     copd      P14COPDPr_105.wav        P14
+     copd      P14COPDPr_107.wav        P14
+     copd      P14COPDPr_109.wav        P14
+     copd      P14COPDPr_111.wav        P14
+     copd      P15COPDMc_114.wav        P15
+     copd      P15COPDMc_116.wav        P15
+     copd      P15COPDMc_118.wav        P15
+     copd      P15COPDMc_120.wav        P15
+     copd      P15COPDPr_113.wav        P15
+     copd      P15COPDPr_115.wav        P15
+     copd      P15COPDPr_117.wav        P15
+     copd      P15COPDPr_119.wav        P15
+     copd      P16COPDMc_122.wav        P16
+     copd      P16COPDMc_124.wav        P16
+     copd      P16COPDMc_126.wav        P16
+     copd      P16COPDMc_128.wav        P16
+     copd      P16COPDPr_121.wav        P16
+     copd      P16COPDPr_123.wav        P16
+     copd      P16COPDPr_125.wav        P16
+     copd      P16COPDPr_127.wav        P16
+     copd      P17COPDMc_130.wav        P17
+     copd      P17COPDMc_132.wav        P17
+     copd      P17COPDMc_134.wav        P17
+     copd      P17COPDMc_136.wav        P17
+     copd      P17COPDPr_129.wav        P17
+     copd      P17COPDPr_131.wav        P17
+     copd      P17COPDPr_133.wav        P17
+     copd      P17COPDPr_135.wav        P17
+     copd      P18COPDMc_138.wav        P18
+     copd      P18COPDMc_140.wav        P18
+     copd      P18COPDMc_142.wav        P18
+     copd      P18COPDMc_144.wav        P18
+     copd      P18COPDPr_137.wav        P18
+     copd      P18COPDPr_139.wav        P18
+     copd      P18COPDPr_141.wav        P18
+     copd      P18COPDPr_143.wav        P18
+     copd      P19COPDMc_146.wav        P19
+     copd      P19COPDMc_148.wav        P19
+     copd      P19COPDMc_150.wav        P19
+     copd      P19COPDMc_152.wav        P19
+     copd      P19COPDPr_145.wav        P19
+     copd      P19COPDPr_147.wav        P19
+     copd      P19COPDPr_149.wav        P19
+     copd      P19COPDPr_151.wav        P19
+     copd         P1COPDMc_2.wav         P1
+     copd         P1COPDMc_4.wav         P1
+     copd         P1COPDMc_6.wav         P1
+     copd         P1COPDMc_8.wav         P1
+     copd         P1COPDPr_1.wav         P1
+     copd         P1COPDPr_3.wav         P1
+     copd         P1COPDPr_5.wav         P1
+     copd         P1COPDPr_7.wav         P1
+     copd      P20COPDMc_154.wav        P20
+     copd      P20COPDMc_156.wav        P20
+     copd      P20COPDMc_158.wav        P20
+     copd      P20COPDMc_160.wav        P20
+     copd      P20COPDPr_153.wav        P20
+     copd      P20COPDPr_155.wav        P20
+     copd      P20COPDPr_157.wav        P20
+     copd      P20COPDPr_159.wav        P20
+     copd      P21COPDMc_162.wav        P21
+     copd      P21COPDMc_164.wav        P21
+     copd      P21COPDMc_166.wav        P21
+     copd      P21COPDMc_168.wav        P21
+     copd      P21COPDPr_161.wav        P21
+     copd      P21COPDPr_163.wav        P21
+     copd      P21COPDPr_165.wav        P21
+     copd      P21COPDPr_167.wav        P21
+     copd      P22COPDMc_170.wav        P22
+     copd      P22COPDMc_172.wav        P22
+     copd      P22COPDMc_174.wav        P22
+     copd      P22COPDMc_176.wav        P22
+     copd      P22COPDPr_169.wav        P22
+     copd      P22COPDPr_171.wav        P22
+     copd      P22COPDPr_173.wav        P22
+     copd      P22COPDPr_175.wav        P22
+     copd      P23COPDMc_178.wav        P23
+     copd      P23COPDMc_180.wav        P23
+     copd      P23COPDMc_182.wav        P23
+     copd      P23COPDMc_184.wav        P23
+     copd      P23COPDPr_177.wav        P23
+     copd      P23COPDPr_179.wav        P23
+     copd      P23COPDPr_181.wav        P23
+     copd      P23COPDPr_183.wav        P23
+     copd      P24COPDMc_186.wav        P24
+     copd      P24COPDMc_188.wav        P24
+     copd      P24COPDMc_190.wav        P24
+     copd      P24COPDMc_192.wav        P24
+     copd      P24COPDPr_185.wav        P24
+     copd      P24COPDPr_187.wav        P24
+     copd      P24COPDPr_189.wav        P24
+     copd      P24COPDPr_191.wav        P24
+     copd      P25COPDMc_194.wav        P25
+     copd      P25COPDMc_196.wav        P25
+     copd      P25COPDMc_198.wav        P25
+     copd      P25COPDMc_200.wav        P25
+     copd      P25COPDPr_193.wav        P25
+     copd      P25COPDPr_195.wav        P25
+     copd      P25COPDPr_197.wav        P25
+     copd      P25COPDPr_199.wav        P25
+     copd      P26COPDMc_202.wav        P26
+     copd      P26COPDMc_204.wav        P26
+     copd      P26COPDMc_206.wav        P26
+     copd      P26COPDMc_208.wav        P26
+     copd      P26COPDPr_201.wav        P26
+     copd      P26COPDPr_203.wav        P26
+     copd      P26COPDPr_205.wav        P26
+     copd      P26COPDPr_207.wav        P26
+     copd      P27COPDMc_210.wav        P27
+     copd      P27COPDMc_212.wav        P27
+     copd      P27COPDMc_214.wav        P27
+     copd      P27COPDMc_216.wav        P27
+     copd      P27COPDPr_209.wav        P27
+     copd      P27COPDPr_211.wav        P27
+     copd      P27COPDPr_213.wav        P27
+     copd      P27COPDPr_215.wav        P27
+     copd      P28COPDMc_218.wav        P28
+     copd      P28COPDMc_220.wav        P28
+     copd      P28COPDMc_222.wav        P28
+     copd      P28COPDMc_224.wav        P28
+     copd      P28COPDPr_217.wav        P28
+     copd      P28COPDPr_219.wav        P28
+     copd      P28COPDPr_221.wav        P28
+     copd      P28COPDPr_223.wav        P28
+     copd      P29COPDMc_226.wav        P29
+     copd      P29COPDMc_228.wav        P29
+     copd      P29COPDMc_230.wav        P29
+     copd      P29COPDMc_232.wav        P29
+     copd      P29COPDPr_225.wav        P29
+     copd      P29COPDPr_227.wav        P29
+     copd      P29COPDPr_229.wav        P29
+     copd      P29COPDPr_231.wav        P29
+     copd        P2COPDMc_10.wav         P2
+     copd        P2COPDMc_12.wav         P2
+     copd        P2COPDMc_14.wav         P2
+     copd        P2COPDMc_16.wav         P2
+     copd        P2COPDPr_11.wav         P2
+     copd        P2COPDPr_13.wav         P2
+     copd        P2COPDPr_15.wav         P2
+     copd         P2COPDPr_9.wav         P2
+     copd      P30COPDMc_234.wav        P30
+     copd      P30COPDMc_236.wav        P30
+     copd      P30COPDMc_238.wav        P30
+     copd      P30COPDMc_240.wav        P30
+     copd      P30COPDPr_233.wav        P30
+     copd      P30COPDPr_235.wav        P30
+     copd      P30COPDPr_237.wav        P30
+     copd      P30COPDPr_239.wav        P30
+     copd      P31COPDMc_242.wav        P31
+     copd      P31COPDMc_244.wav        P31
+     copd      P31COPDMc_246.wav        P31
+     copd      P31COPDMc_248.wav        P31
+     copd      P31COPDPr_241.wav        P31
+     copd      P31COPDPr_243.wav        P31
+     copd      P31COPDPr_245.wav        P31
+     copd      P31COPDPr_247.wav        P31
+     copd      P32COPDMc_250.wav        P32
+     copd      P32COPDMc_252.wav        P32
+     copd      P32COPDMc_254.wav        P32
+     copd      P32COPDMc_256.wav        P32
+     copd      P32COPDPr_249.wav        P32
+     copd      P32COPDPr_251.wav        P32
+     copd      P32COPDPr_253.wav        P32
+     copd      P32COPDPr_255.wav        P32
+     copd      P33COPDMc_258.wav        P33
+     copd      P33COPDMc_260.wav        P33
+     copd      P33COPDMc_262.wav        P33
+     copd      P33COPDMc_264.wav        P33
+     copd      P33COPDPr_257.wav        P33
+     copd      P33COPDPr_259.wav        P33
+     copd      P33COPDPr_261.wav        P33
+     copd      P33COPDPr_263.wav        P33
+     copd      P34COPDMc_266.wav        P34
+     copd      P34COPDMc_268.wav        P34
+     copd      P34COPDMc_270.wav        P34
+     copd      P34COPDMc_272.wav        P34
+     copd      P34COPDPr_265.wav        P34
+     copd      P34COPDPr_267.wav        P34
+     copd      P34COPDPr_269.wav        P34
+     copd      P34COPDPr_271.wav        P34
+     copd      P35COPDMc_274.wav        P35
+     copd      P35COPDMc_276.wav        P35
+     copd      P35COPDMc_278.wav        P35
+     copd      P35COPDMc_280.wav        P35
+     copd      P35COPDPr_273.wav        P35
+     copd      P35COPDPr_275.wav        P35
+     copd      P35COPDPr_277.wav        P35
+     copd      P35COPDPr_279.wav        P35
+     copd      P36COPDMc_282.wav        P36
+     copd      P36COPDMc_284.wav        P36
+     copd      P36COPDMc_286.wav        P36
+     copd      P36COPDMc_288.wav        P36
+     copd      P36COPDPr_281.wav        P36
+     copd      P36COPDPr_283.wav        P36
+     copd      P36COPDPr_285.wav        P36
+     copd      P36COPDPr_287.wav        P36
+     copd      P37COPDMc_290.wav        P37
+     copd      P37COPDMc_292.wav        P37
+     copd      P37COPDMc_294.wav        P37
+     copd      P37COPDMc_296.wav        P37
+     copd      P37COPDPr_289.wav        P37
+     copd      P37COPDPr_291.wav        P37
+     copd      P37COPDPr_293.wav        P37
+     copd      P37COPDPr_295.wav        P37
+     copd      P38COPDMc_298.wav        P38
+     copd      P38COPDMc_300.wav        P38
+     copd      P38COPDMc_302.wav        P38
+     copd      P38COPDMc_304.wav        P38
+     copd      P38COPDPr_297.wav        P38
+     copd      P38COPDPr_299.wav        P38
+     copd      P38COPDPr_301.wav        P38
+     copd      P38COPDPr_303.wav        P38
+     copd      P39COPDMc_306.wav        P39
+     copd      P39COPDMc_308.wav        P39
+     copd      P39COPDMc_310.wav        P39
+     copd      P39COPDMc_312.wav        P39
+     copd      P39COPDPr_305.wav        P39
+     copd      P39COPDPr_307.wav        P39
+     copd      P39COPDPr_309.wav        P39
+     copd      P39COPDPr_311.wav        P39
+     copd        P3COPDMc_18.wav         P3
+     copd        P3COPDMc_20.wav         P3
+     copd        P3COPDMc_22.wav         P3
+     copd        P3COPDMc_24.wav         P3
+     copd        P3COPDPr_17.wav         P3
+     copd        P3COPDPr_19.wav         P3
+     copd        P3COPDPr_21.wav         P3
+     copd        P3COPDPr_23.wav         P3
+     copd      P40COPDMc_314.wav        P40
+     copd      P40COPDMc_316.wav        P40
+     copd      P40COPDMc_318.wav        P40
+     copd      P40COPDMc_320.wav        P40
+     copd      P40COPDPr_313.wav        P40
+     copd      P40COPDPr_315.wav        P40
+     copd      P40COPDPr_317.wav        P40
+     copd      P40COPDPr_319.wav        P40
+     copd      P41COPDMc_322.wav        P41
+     copd      P41COPDMc_324.wav        P41
+     copd      P41COPDMc_326.wav        P41
+     copd      P41COPDMc_328.wav        P41
+     copd      P41COPDPr_321.wav        P41
+     copd      P41COPDPr_323.wav        P41
+     copd      P41COPDPr_325.wav        P41
+     copd      P41COPDPr_327.wav        P41
+     copd      P42COPDMc_330.wav        P42
+     copd      P42COPDMc_332.wav        P42
+     copd      P42COPDMc_334.wav        P42
+     copd      P42COPDMc_336.wav        P42
+     copd      P42COPDPr_329.wav        P42
+     copd      P42COPDPr_331.wav        P42
+     copd      P42COPDPr_333.wav        P42
+     copd      P42COPDPr_335.wav        P42
+     copd      P43COPDMc_338.wav        P43
+     copd      P43COPDMc_340.wav        P43
+     copd      P43COPDMc_342.wav        P43
+     copd      P43COPDMc_344.wav        P43
+     copd      P43COPDPr_337.wav        P43
+     copd      P43COPDPr_339.wav        P43
+     copd      P43COPDPr_341.wav        P43
+     copd      P43COPDPr_343.wav        P43
+     copd      P44COPDMc_346.wav        P44
+     copd      P44COPDMc_348.wav        P44
+     copd      P44COPDMc_350.wav        P44
+     copd      P44COPDMc_352.wav        P44
+     copd      P44COPDPr_345.wav        P44
+     copd      P44COPDPr_347.wav        P44
+     copd      P44COPDPr_349.wav        P44
+     copd      P44COPDPr_351.wav        P44
+     copd      P45COPDMc_354.wav        P45
+     copd      P45COPDMc_356.wav        P45
+     copd      P45COPDMc_358.wav        P45
+     copd      P45COPDMc_360.wav        P45
+     copd      P45COPDPr_353.wav        P45
+     copd      P45COPDPr_355.wav        P45
+     copd      P45COPDPr_357.wav        P45
+     copd      P45COPDPr_359.wav        P45
+     copd      P46COPDMc_362.wav        P46
+     copd      P46COPDMc_364.wav        P46
+     copd      P46COPDMc_366.wav        P46
+     copd      P46COPDMc_368.wav        P46
+     copd      P46COPDPr_361.wav        P46
+     copd      P46COPDPr_363.wav        P46
+     copd      P46COPDPr_365.wav        P46
+     copd      P46COPDPr_367.wav        P46
+     copd      P47COPDMc_370.wav        P47
+     copd      P47COPDMc_372.wav        P47
+     copd      P47COPDMc_374.wav        P47
+     copd      P47COPDMc_376.wav        P47
+     copd      P47COPDPr_369.wav        P47
+     copd      P47COPDPr_371.wav        P47
+     copd      P47COPDPr_373.wav        P47
+     copd      P47COPDPr_375.wav        P47
+     copd      P48COPDMc_378.wav        P48
+     copd      P48COPDMc_380.wav        P48
+     copd      P48COPDMc_382.wav        P48
+     copd      P48COPDMc_384.wav        P48
+     copd      P48COPDPr_377.wav        P48
+     copd      P48COPDPr_379.wav        P48
+     copd      P48COPDPr_381.wav        P48
+     copd      P48COPDPr_383.wav        P48
+     copd      P49COPDMc_386.wav        P49
+     copd      P49COPDMc_388.wav        P49
+     copd      P49COPDMc_390.wav        P49
+     copd      P49COPDMc_392.wav        P49
+     copd      P49COPDPr_385.wav        P49
+     copd      P49COPDPr_387.wav        P49
+     copd      P49COPDPr_389.wav        P49
+     copd      P49COPDPr_391.wav        P49
+     copd        P4COPDMc_26.wav         P4
+     copd        P4COPDMc_28.wav         P4
+     copd        P4COPDMc_30.wav         P4
+     copd        P4COPDMc_32.wav         P4
+     copd        P4COPDPr_25.wav         P4
+     copd        P4COPDPr_27.wav         P4
+     copd        P4COPDPr_29.wav         P4
+     copd        P4COPDPr_31.wav         P4
+     copd      P50COPDMc_394.wav        P50
+     copd      P50COPDMc_396.wav        P50
+     copd      P50COPDMc_398.wav        P50
+     copd      P50COPDMc_400.wav        P50
+     copd      P50COPDPr_393.wav        P50
+     copd      P50COPDPr_395.wav        P50
+     copd      P50COPDPr_397.wav        P50
+     copd      P50COPDPr_399.wav        P50
+     copd      P51COPDPr_401.wav        P51
+     copd        P5COPDMc_34.wav         P5
+     copd        P5COPDMc_36.wav         P5
+     copd        P5COPDMc_38.wav         P5
+     copd        P5COPDMc_40.wav         P5
+     copd        P5COPDPr_33.wav         P5
+     copd        P5COPDPr_35.wav         P5
+     copd        P5COPDPr_37.wav         P5
+     copd        P5COPDPr_39.wav         P5
+     copd        P6COPDMc_42.wav         P6
+     copd        P6COPDMc_44.wav         P6
+     copd        P6COPDMc_46.wav         P6
+     copd        P6COPDMc_48.wav         P6
+     copd        P6COPDPr_41.wav         P6
+     copd        P6COPDPr_43.wav         P6
+     copd        P6COPDPr_45.wav         P6
+     copd        P6COPDPr_47.wav         P6
+     copd        P7COPDMc_50.wav         P7
+     copd        P7COPDMc_52.wav         P7
+     copd        P7COPDMc_54.wav         P7
+     copd        P7COPDMc_56.wav         P7
+     copd        P7COPDPr_49.wav         P7
+     copd        P7COPDPr_51.wav         P7
+     copd        P7COPDPr_53.wav         P7
+     copd        P7COPDPr_55.wav         P7
+     copd        P8COPDMc_58.wav         P8
+     copd        P8COPDMc_60.wav         P8
+     copd        P8COPDMc_62.wav         P8
+     copd        P8COPDMc_64.wav         P8
+     copd        P8COPDPr_57.wav         P8
+     copd        P8COPDPr_59.wav         P8
+     copd        P8COPDPr_61.wav         P8
+     copd        P8COPDPr_63.wav         P8
+     copd        P9COPDMc_66.wav         P9
+     copd        P9COPDMc_68.wav         P9
+     copd        P9COPDMc_70.wav         P9
+     copd        P9COPDMc_72.wav         P9
+     copd        P9COPDPr_65.wav         P9
+     copd        P9COPDPr_67.wav         P9
+     copd        P9COPDPr_69.wav         P9
+     copd        P9COPDPr_71.wav         P9
+  healthy      P10Healthy10S.wav        P10
+  healthy      P10Healthy14S.wav        P10
+  healthy      P10Healthy61S.wav        P10
+  healthy      P10Healthy65S.wav        P10
+  healthy      P10Healthy93S.wav        P10
+  healthy      P11Healthy18S.wav        P11
+  healthy      P11Healthy30S.wav        P11
+  healthy      P11Healthy38S.wav        P11
+  healthy      P11Healthy60S.wav        P11
+  healthy      P11Healthy73S.wav        P11
+  healthy      P12Healthy16S.wav        P12
+  healthy      P12Healthy67S.wav        P12
+  healthy      P12Healthy93S.wav        P12
+  healthy      P12Healthy98S.wav        P12
+  healthy      P12Healthy99S.wav        P12
+  healthy      P13Healthy28S.wav        P13
+  healthy      P13Healthy42S.wav        P13
+  healthy      P13Healthy48S.wav        P13
+  healthy      P13Healthy53S.wav        P13
+  healthy      P13Healthy69S.wav        P13
+  healthy      P14Healthy28S.wav        P14
+  healthy      P14Healthy47S.wav        P14
+  healthy      P14Healthy53S.wav        P14
+  healthy      P14Healthy54S.wav        P14
+  healthy      P14Healthy89S.wav        P14
+  healthy      P15Healthy14S.wav        P15
+  healthy      P15Healthy55S.wav        P15
+  healthy      P15Healthy61S.wav        P15
+  healthy      P15Healthy65S.wav        P15
+  healthy      P15Healthy93S.wav        P15
+  healthy      P16Healthy18S.wav        P16
+  healthy      P16Healthy19S.wav        P16
+  healthy      P16Healthy26S.wav        P16
+  healthy      P16Healthy38S.wav        P16
+  healthy      P16Healthy41S.wav        P16
+  healthy      P17Healthy22S.wav        P17
+  healthy      P17Healthy35S.wav        P17
+  healthy      P17Healthy58S.wav        P17
+  healthy      P17Healthy71S.wav        P17
+  healthy      P17Healthy83S.wav        P17
+  healthy      P18Healthy17S.wav        P18
+  healthy      P18Healthy46S.wav        P18
+  healthy      P18Healthy59S.wav        P18
+  healthy      P18Healthy79S.wav        P18
+  healthy      P18Healthy98S.wav        P18
+  healthy      P19Healthy47S.wav        P19
+  healthy      P19Healthy50S.wav        P19
+  healthy      P19Healthy55S.wav        P19
+  healthy      P19Healthy62S.wav        P19
+  healthy      P19Healthy79S.wav        P19
+  healthy       P1Healthy29S.wav         P1
+  healthy       P1Healthy55S.wav         P1
+  healthy       P1Healthy86S.wav         P1
+  healthy       P1Healthy88S.wav         P1
+  healthy       P1Healthy99S.wav         P1
+  healthy      P20Healthy25S.wav        P20
+  healthy      P20Healthy31S.wav        P20
+  healthy      P20Healthy59S.wav        P20
+  healthy      P20Healthy70S.wav        P20
+  healthy      P20Healthy84S.wav        P20
+  healthy      P21Healthy15S.wav        P21
+  healthy      P21Healthy38S.wav        P21
+  healthy      P21Healthy53S.wav        P21
+  healthy      P21Healthy95S.wav        P21
+  healthy      P21Healthy98S.wav        P21
+  healthy      P22Healthy36S.wav        P22
+  healthy      P22Healthy45S.wav        P22
+  healthy      P22Healthy50S.wav        P22
+  healthy      P22Healthy88S.wav        P22
+  healthy      P22Healthy94S.wav        P22
+  healthy      P23Healthy14S.wav        P23
+  healthy      P23Healthy24S.wav        P23
+  healthy      P23Healthy72S.wav        P23
+  healthy      P23Healthy97S.wav        P23
+  healthy      P23Healthy98S.wav        P23
+  healthy      P24Healthy51S.wav        P24
+  healthy      P24Healthy58S.wav        P24
+  healthy      P24Healthy62S.wav        P24
+  healthy      P24Healthy63S.wav        P24
+  healthy      P24Healthy95S.wav        P24
+  healthy      P25Healthy20S.wav        P25
+  healthy      P25Healthy42S.wav        P25
+  healthy      P25Healthy72S.wav        P25
+  healthy      P25Healthy88S.wav        P25
+  healthy      P25Healthy97S.wav        P25
+  healthy      P26Healthy22S.wav        P26
+  healthy      P26Healthy32S.wav        P26
+  healthy      P26Healthy46S.wav        P26
+  healthy      P26Healthy48S.wav        P26
+  healthy      P26Healthy76S.wav        P26
+  healthy      P27Healthy30S.wav        P27
+  healthy      P27Healthy73S.wav        P27
+  healthy      P27Healthy92S.wav        P27
+  healthy       P2Healthy30S.wav         P2
+  healthy       P2Healthy43S.wav         P2
+  healthy       P2Healthy54S.wav         P2
+  healthy       P2Healthy72S.wav         P2
+  healthy       P2Healthy89S.wav         P2
+  healthy       P3Healthy44S.wav         P3
+  healthy       P3Healthy49S.wav         P3
+  healthy       P3Healthy57S.wav         P3
+  healthy       P3Healthy60S.wav         P3
+  healthy       P3Healthy84S.wav         P3
+  healthy       P4Healthy12S.wav         P4
+  healthy       P4Healthy22S.wav         P4
+  healthy       P4Healthy62S.wav         P4
+  healthy       P4Healthy69S.wav         P4
+  healthy       P4Healthy77S.wav         P4
+  healthy       P5Healthy10S.wav         P5
+  healthy       P5Healthy57S.wav         P5
+  healthy       P5Healthy87S.wav         P5
+  healthy       P5Healthy92S.wav         P5
+  healthy       P5Healthy96S.wav         P5
+  healthy       P6Healthy21S.wav         P6
+  healthy       P6Healthy34S.wav         P6
+  healthy       P6Healthy51S.wav         P6
+  healthy       P6Healthy71S.wav         P6
+  healthy       P6Healthy77S.wav         P6
+  healthy       P7Healthy38S.wav         P7
+  healthy       P7Healthy39S.wav         P7
+  healthy       P7Healthy84S.wav         P7
+  healthy       P7Healthy85S.wav         P7
+  healthy       P7Healthy94S.wav         P7
+  healthy       P8Healthy33S.wav         P8
+  healthy       P8Healthy35S.wav         P8
+  healthy       P8Healthy48S.wav         P8
+  healthy       P8Healthy70S.wav         P8
+  healthy       P8Healthy82S.wav         P8
+  healthy       P9Healthy22S.wav         P9
+  healthy       P9Healthy29S.wav         P9
+  healthy       P9Healthy31S.wav         P9
+  healthy       P9Healthy61S.wav         P9
+  healthy       P9Healthy79S.wav         P9
+pneumonia    P10Pneumonia52A.wav        P10
+pneumonia    P10Pneumonia73G.wav        P10
+pneumonia    P10Pneumonia80J.wav        P10
+pneumonia    P10Pneumonia88R.wav        P10
+pneumonia    P10Pneumonia93W.wav        P10
+pneumonia    P10Pneumonia97B.wav        P10
+pneumonia    P11Pneumonia12W.wav        P11
+pneumonia    P11Pneumonia18T.wav        P11
+pneumonia    P11Pneumonia41N.wav        P11
+pneumonia    P11Pneumonia58A.wav        P11
+pneumonia    P11Pneumonia65P.wav        P11
+pneumonia    P11Pneumonia98J.wav        P11
+pneumonia    P12Pneumonia23P.wav        P12
+pneumonia    P12Pneumonia44H.wav        P12
+pneumonia    P12Pneumonia45B.wav        P12
+pneumonia    P12Pneumonia46L.wav        P12
+pneumonia    P12Pneumonia59Q.wav        P12
+pneumonia    P12Pneumonia97E.wav        P12
+pneumonia    P13Pneumonia20R.wav        P13
+pneumonia    P13Pneumonia26N.wav        P13
+pneumonia    P13Pneumonia33Z.wav        P13
+pneumonia    P13Pneumonia60R.wav        P13
+pneumonia    P13Pneumonia94T.wav        P13
+pneumonia    P13Pneumonia99T.wav        P13
+pneumonia    P14Pneumonia19W.wav        P14
+pneumonia    P14Pneumonia22X.wav        P14
+pneumonia    P14Pneumonia40M.wav        P14
+pneumonia    P14Pneumonia62B.wav        P14
+pneumonia    P14Pneumonia73T.wav        P14
+pneumonia    P14Pneumonia87C.wav        P14
+pneumonia    P15Pneumonia12I.wav        P15
+pneumonia    P15Pneumonia16R.wav        P15
+pneumonia    P15Pneumonia39Y.wav        P15
+pneumonia    P15Pneumonia56Z.wav        P15
+pneumonia    P15Pneumonia58S.wav        P15
+pneumonia    P15Pneumonia81V.wav        P15
+pneumonia    P16Pneumonia18Z.wav        P16
+pneumonia    P16Pneumonia42Q.wav        P16
+pneumonia    P16Pneumonia56J.wav        P16
+pneumonia    P16Pneumonia66X.wav        P16
+pneumonia    P16Pneumonia78M.wav        P16
+pneumonia    P16Pneumonia80G.wav        P16
+pneumonia    P17Pneumonia49T.wav        P17
+pneumonia    P17Pneumonia51I.wav        P17
+pneumonia    P17Pneumonia57K.wav        P17
+pneumonia    P17Pneumonia63G.wav        P17
+pneumonia    P17Pneumonia86O.wav        P17
+pneumonia    P17Pneumonia91K.wav        P17
+pneumonia    P18Pneumonia15Q.wav        P18
+pneumonia    P18Pneumonia16E.wav        P18
+pneumonia    P18Pneumonia23E.wav        P18
+pneumonia    P18Pneumonia50S.wav        P18
+pneumonia    P18Pneumonia84N.wav        P18
+pneumonia    P18Pneumonia88I.wav        P18
+pneumonia    P19Pneumonia24H.wav        P19
+pneumonia    P19Pneumonia33O.wav        P19
+pneumonia    P19Pneumonia39Z.wav        P19
+pneumonia    P19Pneumonia41U.wav        P19
+pneumonia    P19Pneumonia75B.wav        P19
+pneumonia    P19Pneumonia90X.wav        P19
+pneumonia     P1Pneumonia10T.wav         P1
+pneumonia     P1Pneumonia39F.wav         P1
+pneumonia     P1Pneumonia41U.wav         P1
+pneumonia     P1Pneumonia93D.wav         P1
+pneumonia     P1Pneumonia94J.wav         P1
+pneumonia     P1Pneumonia97M.wav         P1
+pneumonia    P20Pneumonia27V.wav        P20
+pneumonia    P20Pneumonia31P.wav        P20
+pneumonia    P20Pneumonia37V.wav        P20
+pneumonia    P20Pneumonia42B.wav        P20
+pneumonia    P20Pneumonia58T.wav        P20
+pneumonia    P20Pneumonia84L.wav        P20
+pneumonia    P21Pneumonia12C.wav        P21
+pneumonia    P21Pneumonia24G.wav        P21
+pneumonia    P21Pneumonia56M.wav        P21
+pneumonia    P21Pneumonia69Q.wav        P21
+pneumonia    P21Pneumonia78P.wav        P21
+pneumonia    P21Pneumonia95A.wav        P21
+pneumonia    P22Pneumonia27A.wav        P22
+pneumonia    P22Pneumonia29K.wav        P22
+pneumonia    P22Pneumonia29M.wav        P22
+pneumonia    P22Pneumonia47V.wav        P22
+pneumonia    P22Pneumonia51X.wav        P22
+pneumonia    P22Pneumonia55C.wav        P22
+pneumonia    P23Pneumonia19A.wav        P23
+pneumonia    P23Pneumonia40O.wav        P23
+pneumonia    P23Pneumonia54P.wav        P23
+pneumonia    P23Pneumonia60Y.wav        P23
+pneumonia    P23Pneumonia90V.wav        P23
+pneumonia    P23Pneumonia97P.wav        P23
+pneumonia    P24Pneumonia21G.wav        P24
+pneumonia    P24Pneumonia54A.wav        P24
+pneumonia    P24Pneumonia67G.wav        P24
+pneumonia    P24Pneumonia67Z.wav        P24
+pneumonia    P24Pneumonia91X.wav        P24
+pneumonia    P24Pneumonia95T.wav        P24
+pneumonia    P25Pneumonia11Z.wav        P25
+pneumonia    P25Pneumonia16B.wav        P25
+pneumonia    P25Pneumonia30I.wav        P25
+pneumonia    P25Pneumonia42V.wav        P25
+pneumonia    P25Pneumonia93N.wav        P25
+pneumonia    P25Pneumonia97D.wav        P25
+pneumonia    P26Pneumonia12X.wav        P26
+pneumonia    P26Pneumonia66S.wav        P26
+pneumonia    P26Pneumonia72P.wav        P26
+pneumonia    P26Pneumonia83Z.wav        P26
+pneumonia    P26Pneumonia84P.wav        P26
+pneumonia    P26Pneumonia89E.wav        P26
+pneumonia    P27Pneumonia25R.wav        P27
+pneumonia    P27Pneumonia28K.wav        P27
+pneumonia    P27Pneumonia37T.wav        P27
+pneumonia    P27Pneumonia48G.wav        P27
+pneumonia    P27Pneumonia62C.wav        P27
+pneumonia    P27Pneumonia77J.wav        P27
+pneumonia    P28Pneumonia22W.wav        P28
+pneumonia    P28Pneumonia43J.wav        P28
+pneumonia    P28Pneumonia56Y.wav        P28
+pneumonia    P28Pneumonia65J.wav        P28
+pneumonia    P28Pneumonia71A.wav        P28
+pneumonia    P28Pneumonia90E.wav        P28
+pneumonia    P29Pneumonia14M.wav        P29
+pneumonia    P29Pneumonia17N.wav        P29
+pneumonia    P29Pneumonia18M.wav        P29
+pneumonia    P29Pneumonia24X.wav        P29
+pneumonia    P29Pneumonia51O.wav        P29
+pneumonia    P29Pneumonia82U.wav        P29
+pneumonia     P2Pneumonia11Q.wav         P2
+pneumonia     P2Pneumonia28R.wav         P2
+pneumonia     P2Pneumonia36Z.wav         P2
+pneumonia     P2Pneumonia70H.wav         P2
+pneumonia     P2Pneumonia82A.wav         P2
+pneumonia     P2Pneumonia93N.wav         P2
+pneumonia    P30Pneumonia10C.wav        P30
+pneumonia    P30Pneumonia15J.wav        P30
+pneumonia    P30Pneumonia30W.wav        P30
+pneumonia    P30Pneumonia52T.wav        P30
+pneumonia    P30Pneumonia70X.wav        P30
+pneumonia    P30Pneumonia85D.wav        P30
+pneumonia    P31Pneumonia14Q.wav        P31
+pneumonia    P31Pneumonia16C.wav        P31
+pneumonia    P31Pneumonia43V.wav        P31
+pneumonia    P31Pneumonia47D.wav        P31
+pneumonia    P31Pneumonia47J.wav        P31
+pneumonia    P31Pneumonia92I.wav        P31
+pneumonia    P32Pneumonia59Q.wav        P32
+pneumonia    P32Pneumonia66M.wav        P32
+pneumonia    P32Pneumonia69E.wav        P32
+pneumonia    P32Pneumonia75E.wav        P32
+pneumonia    P32Pneumonia98Y.wav        P32
+pneumonia    P32Pneumonia99W.wav        P32
+pneumonia    P33Pneumonia50P.wav        P33
+pneumonia    P33Pneumonia70D.wav        P33
+pneumonia    P33Pneumonia74T.wav        P33
+pneumonia    P33Pneumonia88U.wav        P33
+pneumonia    P33Pneumonia94C.wav        P33
+pneumonia    P33Pneumonia94P.wav        P33
+pneumonia    P34Pneumonia15R.wav        P34
+pneumonia    P34Pneumonia36H.wav        P34
+pneumonia    P34Pneumonia61E.wav        P34
+pneumonia    P34Pneumonia66M.wav        P34
+pneumonia    P34Pneumonia77O.wav        P34
+pneumonia    P34Pneumonia99G.wav        P34
+pneumonia    P35Pneumonia16F.wav        P35
+pneumonia    P35Pneumonia46U.wav        P35
+pneumonia    P35Pneumonia56D.wav        P35
+pneumonia    P35Pneumonia57I.wav        P35
+pneumonia    P35Pneumonia75E.wav        P35
+pneumonia    P35Pneumonia99V.wav        P35
+pneumonia    P36Pneumonia56V.wav        P36
+pneumonia    P36Pneumonia57U.wav        P36
+pneumonia    P36Pneumonia79Z.wav        P36
+pneumonia    P36Pneumonia83N.wav        P36
+pneumonia    P36Pneumonia85U.wav        P36
+pneumonia    P36Pneumonia86S.wav        P36
+pneumonia    P37Pneumonia44I.wav        P37
+pneumonia    P37Pneumonia73K.wav        P37
+pneumonia    P37Pneumonia73X.wav        P37
+pneumonia    P37Pneumonia83S.wav        P37
+pneumonia    P37Pneumonia84E.wav        P37
+pneumonia    P37Pneumonia95J.wav        P37
+pneumonia    P38Pneumonia23A.wav        P38
+pneumonia    P38Pneumonia34H.wav        P38
+pneumonia    P38Pneumonia35P.wav        P38
+pneumonia    P38Pneumonia41S.wav        P38
+pneumonia    P38Pneumonia61R.wav        P38
+pneumonia    P38Pneumonia64N.wav        P38
+pneumonia    P39Pneumonia16K.wav        P39
+pneumonia    P39Pneumonia41F.wav        P39
+pneumonia    P39Pneumonia49H.wav        P39
+pneumonia    P39Pneumonia78Z.wav        P39
+pneumonia    P39Pneumonia85Q.wav        P39
+pneumonia    P39Pneumonia87S.wav        P39
+pneumonia     P3Pneumonia41L.wav         P3
+pneumonia     P3Pneumonia54K.wav         P3
+pneumonia     P3Pneumonia61R.wav         P3
+pneumonia     P3Pneumonia74F.wav         P3
+pneumonia     P3Pneumonia75Z.wav         P3
+pneumonia     P3Pneumonia96L.wav         P3
+pneumonia    P40Pneumonia18H.wav        P40
+pneumonia    P40Pneumonia32Q.wav        P40
+pneumonia    P40Pneumonia69N.wav        P40
+pneumonia    P40Pneumonia90Y.wav        P40
+pneumonia    P40Pneumonia91V.wav        P40
+pneumonia    P40Pneumonia92J.wav        P40
+pneumonia    P41Pneumonia17O.wav        P41
+pneumonia    P41Pneumonia25E.wav        P41
+pneumonia    P41Pneumonia31S.wav        P41
+pneumonia    P41Pneumonia41D.wav        P41
+pneumonia    P41Pneumonia71Q.wav        P41
+pneumonia    P41Pneumonia72U.wav        P41
+pneumonia    P42Pneumonia27A.wav        P42
+pneumonia    P42Pneumonia46D.wav        P42
+pneumonia    P42Pneumonia47W.wav        P42
+pneumonia    P42Pneumonia63L.wav        P42
+pneumonia    P42Pneumonia67F.wav        P42
+pneumonia    P42Pneumonia69S.wav        P42
+pneumonia    P43Pneumonia24U.wav        P43
+pneumonia    P43Pneumonia53X.wav        P43
+pneumonia    P43Pneumonia54I.wav        P43
+pneumonia    P43Pneumonia73N.wav        P43
+pneumonia    P43Pneumonia88Y.wav        P43
+pneumonia    P43Pneumonia89T.wav        P43
+pneumonia    P44Pneumonia36U.wav        P44
+pneumonia    P44Pneumonia47J.wav        P44
+pneumonia    P44Pneumonia49B.wav        P44
+pneumonia    P44Pneumonia59U.wav        P44
+pneumonia    P44Pneumonia65N.wav        P44
+pneumonia    P44Pneumonia71M.wav        P44
+pneumonia    P45Pneumonia10J.wav        P45
+pneumonia    P45Pneumonia25T.wav        P45
+pneumonia    P45Pneumonia29L.wav        P45
+pneumonia    P45Pneumonia51F.wav        P45
+pneumonia    P45Pneumonia59I.wav        P45
+pneumonia    P45Pneumonia72P.wav        P45
+pneumonia    P46Pneumonia15W.wav        P46
+pneumonia    P46Pneumonia22V.wav        P46
+pneumonia    P46Pneumonia49D.wav        P46
+pneumonia    P46Pneumonia80D.wav        P46
+pneumonia    P46Pneumonia95A.wav        P46
+pneumonia    P46Pneumonia99Y.wav        P46
+pneumonia    P47Pneumonia14M.wav        P47
+pneumonia    P47Pneumonia19A.wav        P47
+pneumonia    P47Pneumonia24N.wav        P47
+pneumonia    P47Pneumonia69D.wav        P47
+pneumonia    P47Pneumonia74Q.wav        P47
+pneumonia    P47Pneumonia98K.wav        P47
+pneumonia    P48Pneumonia31K.wav        P48
+pneumonia    P48Pneumonia61T.wav        P48
+pneumonia    P48Pneumonia82Z.wav        P48
+pneumonia     P4Pneumonia17R.wav         P4
+pneumonia     P4Pneumonia27H.wav         P4
+pneumonia     P4Pneumonia39Q.wav         P4
+pneumonia     P4Pneumonia55U.wav         P4
+pneumonia     P4Pneumonia67J.wav         P4
+pneumonia     P4Pneumonia78E.wav         P4
+pneumonia     P5Pneumonia20K.wav         P5
+pneumonia     P5Pneumonia21J.wav         P5
+pneumonia     P5Pneumonia38U.wav         P5
+pneumonia     P5Pneumonia88J.wav         P5
+pneumonia     P5Pneumonia94P.wav         P5
+pneumonia     P5Pneumonia95V.wav         P5
+pneumonia     P6Pneumonia15U.wav         P6
+pneumonia     P6Pneumonia17Q.wav         P6
+pneumonia     P6Pneumonia32L.wav         P6
+pneumonia     P6Pneumonia37H.wav         P6
+pneumonia     P6Pneumonia39O.wav         P6
+pneumonia     P6Pneumonia84M.wav         P6
+pneumonia     P7Pneumonia22C.wav         P7
+pneumonia     P7Pneumonia22X.wav         P7
+pneumonia     P7Pneumonia34I.wav         P7
+pneumonia     P7Pneumonia61Q.wav         P7
+pneumonia     P7Pneumonia62G.wav         P7
+pneumonia     P7Pneumonia76F.wav         P7
+pneumonia     P8Pneumonia11O.wav         P8
+pneumonia     P8Pneumonia14Z.wav         P8
+pneumonia     P8Pneumonia16Z.wav         P8
+pneumonia     P8Pneumonia20O.wav         P8
+pneumonia     P8Pneumonia23N.wav         P8
+pneumonia     P8Pneumonia28V.wav         P8
+pneumonia     P9Pneumonia31T.wav         P9
+pneumonia     P9Pneumonia63O.wav         P9
+pneumonia     P9Pneumonia67I.wav         P9
+pneumonia     P9Pneumonia73J.wav         P9
+pneumonia     P9Pneumonia74S.wav         P9
+pneumonia     P9Pneumonia74V.wav         P9

@@ -1,0 +1,16 @@
+split,class_name,samples,patient_groups,icbhi_samples,asthma_v2_samples
+train,Asthma,200,40,0,200
+train,Bronchitis,74,15,0,74
+train,COPD,4682,81,4441,241
+train,Healthy,311,37,221,90
+train,Pneumonia,422,37,233,189
+validation,Asthma,45,9,0,45
+validation,Bronchitis,15,3,0,15
+validation,COPD,1167,17,1111,56
+validation,Healthy,84,8,69,15
+validation,Pneumonia,94,8,52,42
+test,Asthma,43,9,0,43
+test,Bronchitis,15,3,0,15
+test,COPD,298,17,194,104
+test,Healthy,54,8,32,22
+test,Pneumonia,48,8,0,48

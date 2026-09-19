@@ -1,0 +1,16 @@
+patient_group,audio_path,split,distance_to_ICBHI_199
+ICBHI_155,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/155_2b1_Al_mc_LittC2SE.wav,train,0.835538874736288
+ICBHI_132,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/132_2b2_Lr_mc_LittC2SE.wav,train,0.8844698836422672
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b3_Ar_mc_LittC2SE.wav,train,1.0030957332990735
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b1_Ar_mc_LittC2SE.wav,train,1.1222209169180632
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Lr_mc_LittC2SE.wav,train,1.3009452772782772
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b2_Ar_mc_LittC2SE.wav,train,1.5386645175813083
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b1_Al_mc_LittC2SE.wav,train,1.556013610046262
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Al_mc_LittC2SE.wav,train,1.59830664754094
+ICBHI_158,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/158_1b3_Ar_mc_LittC2SE.wav,train,1.612873006934519
+ICBHI_212,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/212_2b2_Tc_mc_LittC2SE.wav,train,1.7854092998435973
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b3_Al_mc_LittC2SE.wav,train,1.7929042814361267
+ICBHI_132,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/132_2b1_Lr_mc_LittC2SE.wav,train,1.8703836141258503
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Pl_mc_LittC2SE.wav,train,1.891272502115451
+ICBHI_181,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/181_1b2_Ar_mc_LittC2SE.wav,train,1.9914282844938926
+ICBHI_106,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/106_2b1_Pr_mc_LittC2SE.wav,train,2.34256139906309

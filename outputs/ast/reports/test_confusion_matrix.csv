@@ -1,0 +1,6 @@
+,Asthma,Bronchial,COPD,Healthy,Pneumonia
+Asthma,36,0,1,0,3
+Bronchial,7,3,0,4,0
+COPD,9,0,1072,0,1
+Healthy,0,0,0,87,4
+Pneumonia,1,1,5,1,40

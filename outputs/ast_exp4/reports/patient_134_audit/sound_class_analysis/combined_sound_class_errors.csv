@@ -1,0 +1,4 @@
+sound_class,class_name,predicted_label,error_count
+0.0,COPD,Pneumonia,29
+0.0,COPD,Healthy,18
+1.0,COPD,Pneumonia,1

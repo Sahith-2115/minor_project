@@ -1,0 +1,25 @@
+group_id,filename,class,patient_id,path
+1,P15Healthy61S.wav,healthy,P15,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P15Healthy61S.wav
+1,P16Healthy18S.wav,healthy,P16,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P16Healthy18S.wav
+2,P16Healthy19S.wav,healthy,P16,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P16Healthy19S.wav
+2,P16Healthy38S.wav,healthy,P16,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P16Healthy38S.wav
+3,P16Healthy26S.wav,healthy,P16,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P16Healthy26S.wav
+3,P16Healthy41S.wav,healthy,P16,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P16Healthy41S.wav
+4,P22Healthy88S.wav,healthy,P22,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P22Healthy88S.wav
+4,P23Healthy14S.wav,healthy,P23,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P23Healthy14S.wav
+5,P23Healthy24S.wav,healthy,P23,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P23Healthy24S.wav
+5,P23Healthy97S.wav,healthy,P23,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P23Healthy97S.wav
+6,P23Healthy72S.wav,healthy,P23,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P23Healthy72S.wav
+6,P23Healthy98S.wav,healthy,P23,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/healthy/P23Healthy98S.wav
+7,P43Pneumonia53X.wav,pneumonia,P43,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P43Pneumonia53X.wav
+7,P44Pneumonia71M.wav,pneumonia,P44,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P44Pneumonia71M.wav
+8,P43Pneumonia54I.wav,pneumonia,P43,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P43Pneumonia54I.wav
+8,P44Pneumonia49B.wav,pneumonia,P44,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P44Pneumonia49B.wav
+9,P43Pneumonia73N.wav,pneumonia,P43,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P43Pneumonia73N.wav
+9,P44Pneumonia47J.wav,pneumonia,P44,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P44Pneumonia47J.wav
+10,P46Pneumonia22V.wav,pneumonia,P46,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P46Pneumonia22V.wav
+10,P48Pneumonia61T.wav,pneumonia,P48,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P48Pneumonia61T.wav
+11,P46Pneumonia80D.wav,pneumonia,P46,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P46Pneumonia80D.wav
+11,P48Pneumonia31K.wav,pneumonia,P48,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P48Pneumonia31K.wav
+12,P46Pneumonia95A.wav,pneumonia,P46,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P46Pneumonia95A.wav
+12,P48Pneumonia82Z.wav,pneumonia,P48,/home/sahith/projects/minor_project_408/data/raw/asthma_detection_v2/Asthma Detection Dataset Version 2/pneumonia/P48Pneumonia82Z.wav

@@ -1,0 +1,10 @@
+target,reference,cosine_similarity
+patient_141,training_recordings,0.9963271617889404
+patient_141,patient_134,0.9876474738121033
+patient_141,patient_199,0.9924867749214172
+patient_134,training_recordings,0.9955006837844849
+patient_134,patient_141,0.9876474738121033
+patient_134,patient_199,0.9859551787376404
+patient_199,training_recordings,0.9920722246170044
+patient_199,patient_141,0.9924867749214172
+patient_199,patient_134,0.9859551787376404

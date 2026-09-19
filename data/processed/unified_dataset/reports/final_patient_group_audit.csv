@@ -1,0 +1,4 @@
+split,Asthma,Bronchitis,COPD,Healthy,Pneumonia
+test,9,3,17,8,8
+train,40,15,81,37,37
+validation,9,3,17,8,8

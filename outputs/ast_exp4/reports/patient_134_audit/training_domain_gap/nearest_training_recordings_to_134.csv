@@ -1,0 +1,16 @@
+patient_group,audio_path,split,distance_to_ICBHI_134
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Lr_mc_LittC2SE.wav,train,0.19380566614316092
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Al_mc_LittC2SE.wav,train,0.413960076046768
+ICBHI_155,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/155_2b1_Al_mc_LittC2SE.wav,train,0.651976802685914
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Pl_mc_LittC2SE.wav,train,0.7578553112121027
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b3_Ar_mc_LittC2SE.wav,train,0.9438016557302427
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b2_Ar_mc_LittC2SE.wav,train,1.0125642199689566
+ICBHI_132,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/132_2b2_Lr_mc_LittC2SE.wav,train,1.107158822912674
+ICBHI_106,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/106_2b1_Pr_mc_LittC2SE.wav,train,1.147819880904302
+ICBHI_212,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/212_2b2_Tc_mc_LittC2SE.wav,train,1.1590489613667023
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b1_Ar_mc_LittC2SE.wav,train,1.192142917790761
+ICBHI_132,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/132_2b1_Lr_mc_LittC2SE.wav,train,1.6295306664093239
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b1_Al_mc_LittC2SE.wav,train,2.052067887817559
+ICBHI_192,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/192_2b3_Al_mc_LittC2SE.wav,train,2.149043148724087
+ICBHI_221,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/221_2b2_Ar_mc_LittC2SE.wav,train,2.46186189224849
+ICBHI_158,/home/sahith/projects/minor_project_408/data/raw/audio_and_text_files/158_1b3_Ar_mc_LittC2SE.wav,train,2.469921227473042

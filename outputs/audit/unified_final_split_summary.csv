@@ -1,0 +1,16 @@
+split,class_name,samples,patient_groups
+test,Asthma,40,8
+test,Bronchial,14,3
+test,COPD,1082,18
+test,Healthy,91,8
+test,Pneumonia,48,8
+train,Asthma,205,41
+train,Bronchial,75,15
+train,COPD,4048,80
+train,Healthy,306,37
+train,Pneumonia,316,37
+validation,Asthma,43,9
+validation,Bronchial,15,3
+validation,COPD,1017,17
+validation,Healthy,52,8
+validation,Pneumonia,200,8

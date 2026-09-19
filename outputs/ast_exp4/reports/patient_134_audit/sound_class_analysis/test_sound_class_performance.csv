@@ -1,0 +1,3 @@
+sound_class,samples,correct,errors,accuracy
+0.0,170,141,29,0.8294117647058824
+1.0,24,23,1,0.9583333333333334

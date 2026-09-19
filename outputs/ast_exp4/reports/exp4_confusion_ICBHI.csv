@@ -1,0 +1,6 @@
+,Asthma,Bronchitis,COPD,Healthy,Pneumonia
+Asthma,0,0,0,0,0
+Bronchitis,0,0,0,0,0
+COPD,0,0,164,0,30
+Healthy,0,0,0,32,0
+Pneumonia,0,0,0,0,0

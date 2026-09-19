@@ -1,0 +1,16 @@
+split,class_name,samples,split_total,percentage
+test,Asthma,40,1275,3.14
+test,Bronchial,14,1275,1.1
+test,COPD,1082,1275,84.86
+test,Healthy,91,1275,7.14
+test,Pneumonia,48,1275,3.76
+train,Asthma,205,4950,4.14
+train,Bronchial,75,4950,1.52
+train,COPD,4048,4950,81.78
+train,Healthy,306,4950,6.18
+train,Pneumonia,316,4950,6.38
+validation,Asthma,43,1327,3.24
+validation,Bronchial,15,1327,1.13
+validation,COPD,1017,1327,76.64
+validation,Healthy,52,1327,3.92
+validation,Pneumonia,200,1327,15.07

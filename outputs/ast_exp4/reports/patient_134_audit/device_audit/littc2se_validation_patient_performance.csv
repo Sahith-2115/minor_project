@@ -1,0 +1,4 @@
+patient_group,samples,correct,accuracy
+ICBHI_122,52,52,1.0
+ICBHI_141,43,43,1.0
+ICBHI_199,18,0,0.0

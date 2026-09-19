@@ -1,0 +1,6 @@
+class_name,samples,patient_groups,samples_per_patient_group
+Asthma,294,59,4.98
+Bronchial,104,21,4.95
+COPD,6147,115,53.45
+Healthy,455,53,8.58
+Pneumonia,570,54,10.56

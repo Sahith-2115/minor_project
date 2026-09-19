@@ -1,0 +1,7 @@
+split,source,samples
+test,Asthma_V2,232
+test,ICBHI,226
+train,Asthma_V2,794
+train,ICBHI,4895
+validation,Asthma_V2,173
+validation,ICBHI,1232
